@@ -51,17 +51,18 @@ External APIs (Alpha Vantage, News, etc.)
 - OpenAI API Key  
 
 ### 🐳 Backend (FastAPI)
-
+```bash
 cd backend  
 cp .env.example .env  # Add your keys here  
-docker-compose up --build  
+docker-compose up --build
+```
 
 ### 💻 Frontend (React.js)
-
+```bash
 cd frontend  
 npm install  
 npm run dev  
-
+```
 ---
 
 ## 📚 Example Queries
