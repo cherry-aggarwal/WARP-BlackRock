@@ -7,9 +7,7 @@ Whether you’re curious about short-term momentum, long-term growth potential, 
 
 ## 🎥 Demo Video  
 
-[Watch the demo](./demo.mp4)   
-
-*Click the thumbnail above to watch the demo.*  
+https://github.com/cherry-aggarwal/WARP-BlackRock/blob/main/demo.MP4 
 
 ---
 
