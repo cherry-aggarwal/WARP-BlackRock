@@ -1,4 +1,4 @@
-# 📈 Stock Predictor Chatbot
+# 📈 MATS (Multi-Agent Trading System)
 
 An AI-powered financial assistant designed for everyday investors and beginners who want to understand how stocks are performing without needing to know technical jargon.
 Whether you’re curious about short-term momentum, long-term growth potential, or the overall market sentiment, this chatbot gives you clear, easy-to-understand answers backed by real financial data.
@@ -54,7 +54,7 @@ External APIs (Alpha Vantage, News, etc.)
 ```bash
 cd backend  
 cp .env.example .env  # Add your keys here  
-docker-compose up --build
+docker compose up
 ```
 
 ### 💻 Frontend (React.js)
