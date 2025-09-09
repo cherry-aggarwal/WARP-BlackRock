@@ -5,6 +5,14 @@ Whether you’re curious about short-term momentum, long-term growth potential, 
 
 ---
 
+## 🎥 Demo Video  
+
+[Watch the demo](./demo.mp4)   
+
+*Click the thumbnail above to watch the demo.*  
+
+---
+
 ## 🚀 Features
 
 - **Simple Language Queries** – Ask natural questions like:  
