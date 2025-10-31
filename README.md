@@ -1,4 +1,4 @@
-# 📈 MATS (Multi-Agent Trading System)
+# 📈 MATs (Multi-Agent Trading Assistant)
 
 An AI-powered financial assistant designed for everyday investors and beginners who want to understand how stocks are performing without needing to know technical jargon.
 Whether you’re curious about short-term momentum, long-term growth potential, or the overall market sentiment, this chatbot gives you clear, easy-to-understand answers backed by real financial data.
